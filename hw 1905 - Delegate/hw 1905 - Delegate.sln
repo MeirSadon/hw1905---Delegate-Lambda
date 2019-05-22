@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hw 1905 - Delegate", "hw 1905 - Delegate\hw 1905 - Delegate.csproj", "{E15DE313-9041-440B-B368-9164E49E0B7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1905 ThirthTraining Delegate", "..\Delegrate 1905\1905 ThirthTraining Delegate\1905 ThirthTraining Delegate\1905 ThirthTraining Delegate.csproj", "{C43C579F-90B0-4FF5-9620-DE8808A53072}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E15DE313-9041-440B-B368-9164E49E0B7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E15DE313-9041-440B-B368-9164E49E0B7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E15DE313-9041-440B-B368-9164E49E0B7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E15DE313-9041-440B-B368-9164E49E0B7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C43C579F-90B0-4FF5-9620-DE8808A53072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C43C579F-90B0-4FF5-9620-DE8808A53072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C43C579F-90B0-4FF5-9620-DE8808A53072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C43C579F-90B0-4FF5-9620-DE8808A53072}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57E45DE4-54BC-4EAA-B0E5-FCD6F5831D37}
+	EndGlobalSection
+EndGlobal
